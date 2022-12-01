@@ -59,6 +59,14 @@ From the two Tableau Stories ([NYC Citi Bike-Sharing Dashboard](https://public.t
 
 ![6_TripsGender.png](Images/6_TripsGender.png)
 
+
 ## Summary 
+In conclusion, our data from NYC CitiBike shows that bikesharing is more popular in the city versus rural/ neighborhood areas. We see that younger users tend to ride on these bikes for longer. We also can conclude that most customers use bikes in the morning (8-9 am) and afternoon (5-7 pm). It could be assumed that users use bikesharing programs to get to and from work during busy traffic times. We also did confirm with various types of graphs/ charts that bikesharing users are primarily Male and Subscribers. From this analysis, we can also create a similar company that does more marketing/ advertising/ changes in the company to make it more appealing/ safe for female riders. 
+
+For future and further analysis, it is recommended that: 
+
+- Another visualization could include another Average Trip Duration by Age chart to include gender. This would allow us to analyze if there is a difference between male and female riders by age. 
+- Weekends are also heavily used by bikesharers. We could gather more analysis of Weekend Ride Data that could compare Weekend and Weekday usage.
+- When comparing NYC and Des Moines, Iowa, there is no evidence that this type of bikesharing company would work. Gathering data and analysis from a state closer to Des Moines, Iowa's population/ city type.
 
 
